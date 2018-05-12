@@ -1,0 +1,5 @@
+.idea/
+target/
+src/main/webapp/resources/lib/
+*.iml
+*.tmp
